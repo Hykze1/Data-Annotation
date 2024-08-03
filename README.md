@@ -84,7 +84,17 @@ For detailed instructions on task creation, refer to the guide [here](https://op
 ![image](https://github.com/user-attachments/assets/ff2d4421-be7f-4db3-8fbc-56a2fbc32259)
 ![image](https://github.com/user-attachments/assets/c93091fe-2762-432e-bf14-0e84f220b134)
 
+Check out this link to see the highlight reel of the completed annotation project.
+https://www.loom.com/share/900ff5dff97148279060c127b8ea613a?sid=ad0b51c7-de97-4a34-9a82-24247fe356ef
 
 ### 5. Impact on AI Models
 
-When the annotated images are applied to an AI model or robot, the segmentation masks created through meticulous labeling enable the model to accurately identify and differentiate between various objects in real-world scenarios. This precise annotation is crucial for tasks such as autonomous driving, where the model needs to recognize and respond to different elements in the environment. Properly labeled data improves the model's ability to generalize from the training data to unseen data, leading to more reliable and robust performance in practical applications.
+When the annotated images are applied to an AI model or robot, the segmentation masks created through meticulous labeling enable the model to accurately identify and differentiate 
+
+between various objects in real-world scenarios. This precise annotation is crucial for tasks such as autonomous driving, where the model needs to recognize and respond to different 
+
+elements in the environment. Properly labeled data improves the model's ability to generalize from the training data to unseen data, leading to more reliable and robust performance in 
+
+practical applications.
+
+## Thank You
