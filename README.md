@@ -59,7 +59,7 @@ For detailed instructions on task creation, refer to the guide [here](https://op
 
 - Open the created task and select an image to start annotating.
   
-- Use the Brush tool to segment and label each object in the image. The Brush tool can be accessed via the toolbar. Detailed instructions on using the Brush tool can be found [here](https://opencv.github.io/cvat/docs/manual/advanced/annotation-with-brush-tool/).
+- Use the Brush ![image](https://github.com/user-attachments/assets/18b5beda-4632-4a6a-9456-29a7ec0bad28) tool to segment and label each object in the image. The Brush tool can be accessed via the toolbar. Detailed instructions on using the Brush tool can be found [here](https://opencv.github.io/cvat/docs/manual/advanced/annotation-with-brush-tool/).
 
 #### Step 4: Using the Brush Tool
 
@@ -79,7 +79,7 @@ For detailed instructions on task creation, refer to the guide [here](https://op
 
   ![image](https://github.com/user-attachments/assets/190b77f9-ca1d-4ca5-a205-22a334b32d7c)
 
-- Save the annotated task and provide a link to the task using the form: [Task Submission Form](https://forms.gle/fyGfyMyTBrd9wp8u7).
+- Save the annotated task .
 
 ![image](https://github.com/user-attachments/assets/ff2d4421-be7f-4db3-8fbc-56a2fbc32259)
 ![image](https://github.com/user-attachments/assets/c93091fe-2762-432e-bf14-0e84f220b134)
